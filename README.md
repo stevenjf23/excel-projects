@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi portafolio! En este repositorio comparto mis proyectos desarrollados en Microsoft Excel.
 
-![Banner del Portafolio](./excel.png)
+![Banner del Portafolio](./excel22.png)
 
 ## 📂 Proyectos Destacados
 
