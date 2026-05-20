@@ -2,6 +2,9 @@
 
 Proyecto desarrollado en Microsoft Excel para el seguimiento, análisis y visualización del rendimiento financiero y operativo plurianual (Histórico de 3 años: 20X1 - 20X3).
 
+### Vista Previa de la Plantilla
+![Vista Previa de la Plantilla](imagen1.png)
+
 ## 📂 Archivo del Proyecto
 Puedes descargar el archivo `.xlsx` y utilizarlo o modificarlo según tus necesidades.
 
