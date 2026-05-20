@@ -3,11 +3,12 @@
 
 Proyecto desarrollado en Microsoft Excel diseñado para la gestión comercial, control de costos de reposición y cálculo automatizado de márgenes de beneficio en negocios de distribución, construcción o ferreterías.
 
-## 📂 Archivo del Proyecto
-Puedes descargar el archivo `.xlsx` y utilizarlo o modificarlo según tus necesidades.
-
 ### Vista Previa de la Plantilla
 ![Vista Previa de la Plantilla](imagen1.png)
+
+
+## 📂 Archivo del Proyecto
+Puedes descargar el archivo `.xlsx` y utilizarlo o modificarlo según tus necesidades.
 
 ## 🧮 Funciones y Operaciones Utilizadas
 
