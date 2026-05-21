@@ -11,7 +11,8 @@ A continuación, puedes explorar mis proyectos:
 1. **[Agenda Anual](./1.%20Agenda%20Anual)**
 2. **[Plantilla Profesional](./2.%20Plantilla%20Profesional)**
 3. **[Planilla Inventario](./3.%20Planilla%20Inventario)**
-4. **[Informe Calificaciones](./4.%20Informe%20Calificaciones)**  
+4. **[Informe Calificaciones](./4.%20Informe%20Calificaciones)**
+5. **[Planilla Turnos Laborales](./5.%20Planilla%20Turnos%20Laborales)**  
  
 
 
