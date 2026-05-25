@@ -12,7 +12,8 @@ A continuación, puedes explorar mis proyectos:
 2. **[Plantilla Profesional](./2.%20Plantilla%20Profesional)**
 3. **[Planilla Inventario](./3.%20Planilla%20Inventario)**
 4. **[Informe Calificaciones](./4.%20Informe%20Calificaciones)**
-5. **[Planilla Turnos Laborales](./5.%20Planilla%20Turnos%20Laborales)**  
+5. **[Planilla Turnos Laborales](./5.%20Planilla%20Turnos%20Laborales)**
+6. **[Grafico Saldos Pendientes por Region](./6.%20Grafico%20Saldos%20Pendientes)**  
  
 
 
