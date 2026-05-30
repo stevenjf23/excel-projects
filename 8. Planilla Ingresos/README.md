@@ -8,7 +8,7 @@ Puedes descargar el archivo `.xlsx` y adaptarlo o modificarlo según las necesid
 ### Vista Previa del Sistema
 
 
-![Panel de Ingresos Diarios por Turnos](image1.png)
+![Panel de Ingresos Diarios por Turnos](imagen1.png)
 
 ![Tablero de Resumen y Validación de Firmas](imagen2.png)
 
